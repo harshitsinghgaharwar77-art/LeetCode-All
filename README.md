@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## String
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
