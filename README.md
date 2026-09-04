@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
