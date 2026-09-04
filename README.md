@@ -6,6 +6,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
