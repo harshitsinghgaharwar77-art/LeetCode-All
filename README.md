@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
@@ -52,6 +53,7 @@
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -81,6 +83,7 @@
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
 | ------- |
