@@ -51,6 +51,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 ## Backtracking
