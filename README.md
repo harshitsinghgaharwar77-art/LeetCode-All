@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
@@ -138,4 +139,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
