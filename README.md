@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
+| [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 ## Trie
 |  |
 | ------- |
