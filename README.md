@@ -25,6 +25,7 @@
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3870-count-commas-in-range) |
