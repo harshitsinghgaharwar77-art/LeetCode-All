@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -220,6 +221,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
