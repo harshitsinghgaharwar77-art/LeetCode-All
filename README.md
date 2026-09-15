@@ -177,6 +177,7 @@
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
@@ -185,6 +186,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
@@ -213,6 +215,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
@@ -229,5 +232,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
