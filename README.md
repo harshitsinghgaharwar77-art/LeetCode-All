@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0994-rotting-oranges) |
@@ -115,6 +116,7 @@
 | [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
+| [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0994-rotting-oranges) |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
