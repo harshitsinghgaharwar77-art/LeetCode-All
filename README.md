@@ -168,6 +168,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0802-find-eventual-safe-states) |
@@ -260,6 +261,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0802-find-eventual-safe-states) |
@@ -327,6 +329,7 @@
 | [0207-course-schedule](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0802-find-eventual-safe-states) |
@@ -364,9 +367,15 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
