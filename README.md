@@ -14,6 +14,7 @@
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0994-rotting-oranges) |
@@ -178,6 +179,7 @@
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0802-find-eventual-safe-states) |
@@ -195,6 +197,7 @@
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0994-rotting-oranges) |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
@@ -277,6 +281,7 @@
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0802-find-eventual-safe-states) |
@@ -340,6 +345,7 @@
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -396,6 +402,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -408,6 +415,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
@@ -418,4 +426,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
