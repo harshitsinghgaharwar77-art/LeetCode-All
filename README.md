@@ -37,6 +37,7 @@
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2469-convert-the-temperature) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Design
 |  |
 | ------- |
