@@ -31,6 +31,11 @@ public:
             int currNode = pq.top().second;
             pq.pop();
 
+            // Skip stale entry
+            if(currTime > result[currNode]){
+                continue;
+            }
+
             for(auto &vec : adj[currNode]){
                 int nbr = vec.first;
                 int roadTime = vec.second;
