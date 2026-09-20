@@ -108,6 +108,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
