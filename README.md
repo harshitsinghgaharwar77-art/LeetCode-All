@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
@@ -148,6 +149,7 @@
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
