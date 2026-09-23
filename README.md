@@ -9,6 +9,7 @@
 | [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,6 +153,7 @@
 | [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
