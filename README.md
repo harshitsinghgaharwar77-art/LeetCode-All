@@ -14,6 +14,7 @@
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
@@ -160,6 +161,7 @@
 | [0120-triangle](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -514,4 +517,8 @@
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1092-shortest-common-supersequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
