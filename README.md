@@ -40,6 +40,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3904-smallest-stable-index-ii) |
@@ -59,6 +60,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
