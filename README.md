@@ -138,6 +138,7 @@
 | [1092-shortest-common-supersequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1108-defanging-an-ip-address) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Iterator
 |  |
