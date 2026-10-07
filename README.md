@@ -133,6 +133,7 @@
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -219,6 +220,7 @@
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
@@ -370,6 +372,7 @@
 | [0207-course-schedule](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
