@@ -135,6 +135,7 @@
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
+| [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -171,6 +172,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -439,6 +441,7 @@
 | [0032-longest-valid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0921-minimum-add-to-make-parentheses-valid) |
