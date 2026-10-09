@@ -124,6 +124,7 @@
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
@@ -436,6 +437,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0856-score-of-parentheses) |
