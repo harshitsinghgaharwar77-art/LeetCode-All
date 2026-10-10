@@ -44,6 +44,7 @@
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
@@ -328,6 +329,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
@@ -370,6 +372,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
@@ -428,6 +431,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search Tree
 |  |
@@ -531,6 +535,7 @@
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
 |  |
 | ------- |
