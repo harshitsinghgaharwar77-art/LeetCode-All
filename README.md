@@ -45,6 +45,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
