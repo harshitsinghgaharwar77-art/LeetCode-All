@@ -42,6 +42,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1991-find-the-middle-index-in-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1991-find-the-middle-index-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -172,6 +173,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
