@@ -153,6 +153,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -446,6 +447,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -470,6 +472,7 @@
 | [0071-simplify-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
@@ -640,6 +643,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0739-daily-temperatures) |
