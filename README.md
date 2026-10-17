@@ -43,6 +43,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
+| [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -452,17 +453,20 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -506,6 +510,7 @@
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -676,4 +681,5 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
