@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
@@ -210,6 +211,7 @@
 | [0005-longest-palindromic-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
@@ -344,6 +346,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -487,6 +490,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
@@ -661,6 +665,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
