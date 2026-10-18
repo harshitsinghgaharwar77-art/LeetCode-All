@@ -135,6 +135,7 @@
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -176,6 +177,7 @@
 | [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0856-score-of-parentheses) |
@@ -367,6 +369,7 @@
 | [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
@@ -557,6 +560,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
