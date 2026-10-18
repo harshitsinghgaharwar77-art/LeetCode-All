@@ -47,6 +47,7 @@
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
+| [0904-fruit-into-baskets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0994-rotting-oranges) |
@@ -154,6 +155,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
@@ -595,6 +597,7 @@
 | [0239-sliding-window-maximum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
