@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
