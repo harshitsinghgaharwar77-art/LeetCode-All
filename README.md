@@ -47,6 +47,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -83,6 +84,7 @@
 | [0836-rectangle-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2469-convert-the-temperature) |
@@ -239,6 +241,7 @@
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -338,6 +341,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -379,6 +383,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -389,6 +394,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
@@ -489,6 +495,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Stack
 |  |
@@ -523,6 +530,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
@@ -541,6 +549,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -682,4 +691,12 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
