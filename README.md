@@ -55,6 +55,7 @@
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
@@ -100,6 +101,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0836-rectangle-overlap) |
+| [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -159,6 +161,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -229,6 +232,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0304-range-sum-query-2d-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -598,6 +602,7 @@
 | [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
