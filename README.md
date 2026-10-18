@@ -138,6 +138,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
@@ -177,6 +178,7 @@
 | [0058-length-of-last-word](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
@@ -583,6 +585,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0239-sliding-window-maximum) |
