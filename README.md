@@ -46,6 +46,7 @@
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
@@ -552,6 +553,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
