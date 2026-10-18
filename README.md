@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0057-insert-interval) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
