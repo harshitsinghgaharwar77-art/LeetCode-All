@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
@@ -491,6 +492,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
