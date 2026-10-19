@@ -1,48 +1,36 @@
 class Solution {
 public:
+    vector<vector<int>> directions = {{1,1}, {0,1}, {1,0}, {-1,0}, {0,-1}, {-1,-1}, {1,-1}, {-1,1}};
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int destX = n - 1, destY = n - 1;
-
-        if (grid[0][0] == 1 || grid[n-1][n-1] == 1)
-            return -1;
-
-        queue<pair<int, pair<int, int>>> q;
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
-
-        dist[0][0] = 1;
-        q.push({1, {0, 0}});
-
-        int dr[] = {-1, -1, -1, 0, 0, 1, 1, 1};
-        int dc[] = {-1, 0, 1, -1, 1, -1, 0, 1};
-
-        while (!q.empty()) {
-            auto it = q.front();
-            q.pop();
-
-            int dis = it.first;
-            int r = it.second.first;
-            int c = it.second.second;
-
-            if (r == destX && c == destY)
-                return dis;
-
-            for (int i = 0; i < 8; i++) {
-                int newr = r + dr[i];
-                int newc = c + dc[i];
-
-                if (newr >= 0 && newr < n &&
-                    newc >= 0 && newc < n &&
-                    grid[newr][newc] == 0 &&
-                    dis + 1 < dist[newr][newc]) {
-
-                    dist[newr][newc] = dis + 1;
-
-                    q.push({dis + 1, {newr, newc}});
+        // bfs will work as all the edges have same weight
+        int n = grid.size(), m = grid[0].size();
+        if(n == 0 || m == 0 || grid[0][0] == 1) return -1;
+        auto isSafe = [&](int x, int y){
+            return x >= 0 && x < n && y >= 0 && y < m;
+        };
+        queue<pair<int, int>> q;
+        q.push({0,0});
+        grid[0][0] = 1;
+        int lvl = 0;
+        while(!q.empty()){
+            int N = q.size();
+            while(N--){
+                auto frontNode = q.front();
+                q.pop();
+                int x = frontNode.first;
+                int y = frontNode.second;
+                if(x == n-1 && y == m-1) return lvl+1;
+                for(auto dir : directions){
+                    int x_ = x + dir[0];
+                    int y_ = y + dir[1];
+                    if(isSafe(x_,y_) && grid[x_][y_] == 0){
+                        q.push({x_,y_});
+                        grid[x_][y_] = 1;   // mark visisted
+                    }
                 }
             }
+            lvl++;
         }
-
         return -1;
     }
 };
