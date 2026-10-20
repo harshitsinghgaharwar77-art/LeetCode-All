@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0063-unique-paths-ii) |
@@ -300,6 +301,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
@@ -462,6 +464,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
