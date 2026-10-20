@@ -89,6 +89,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -116,12 +117,14 @@
 | [3870-count-commas-in-range](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -473,6 +476,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
