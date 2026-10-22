@@ -40,6 +40,7 @@
 | [0485-max-consecutive-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -504,6 +505,7 @@
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -589,6 +591,7 @@
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -730,6 +733,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
