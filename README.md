@@ -31,6 +31,7 @@
 | [0312-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -712,6 +713,7 @@
 | [0239-sliding-window-maximum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
