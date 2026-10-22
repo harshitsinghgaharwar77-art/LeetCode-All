@@ -81,6 +81,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2653-sliding-subarray-beauty) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -344,6 +345,7 @@
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Algorithm X
 |  |
