@@ -32,6 +32,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -395,6 +396,7 @@
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
@@ -443,6 +445,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
@@ -493,6 +496,7 @@
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
@@ -714,6 +718,7 @@
 | [0264-ugly-number-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
