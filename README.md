@@ -394,6 +394,7 @@
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -507,6 +508,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
@@ -537,6 +539,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
@@ -996,4 +999,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
