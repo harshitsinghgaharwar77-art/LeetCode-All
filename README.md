@@ -48,6 +48,7 @@
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -488,6 +489,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -508,6 +510,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -659,6 +662,7 @@
 | [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0856-score-of-parentheses) |
@@ -863,6 +867,7 @@
 | [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -880,6 +885,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
@@ -947,4 +953,8 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0480-sliding-window-median) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
