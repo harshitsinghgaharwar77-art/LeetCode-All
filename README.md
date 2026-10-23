@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0137-single-number-ii) |
@@ -169,6 +170,7 @@
 | [0041-first-missing-positive](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0138-copy-list-with-random-pointer) |
@@ -480,6 +482,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
@@ -498,6 +501,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
@@ -868,6 +872,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
