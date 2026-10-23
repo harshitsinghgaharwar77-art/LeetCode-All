@@ -396,6 +396,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [1609-even-odd-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1609-even-odd-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -500,6 +502,7 @@
 | [1609-even-odd-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1609-even-odd-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -567,6 +570,7 @@
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1609-even-odd-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Geometry
 |  |
 | ------- |
