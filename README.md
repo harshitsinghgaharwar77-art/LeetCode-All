@@ -102,6 +102,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
@@ -363,6 +364,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Algorithm X
 |  |
 | ------- |
