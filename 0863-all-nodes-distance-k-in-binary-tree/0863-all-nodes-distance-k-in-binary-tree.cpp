@@ -1,3 +1,4 @@
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -8,59 +9,74 @@
  * };
  */
 class Solution {
-    unordered_map<TreeNode*, TreeNode*> parentMap;
-    void buildParentMap(TreeNode* node, TreeNode* parent){
-        if(!node) return;
-        parentMap[node] = parent;
-        buildParentMap(node -> left, node);
-        buildParentMap(node -> right, node);
+private:
+    unordered_map<TreeNode*, TreeNode*> parent;
+
+    void inorder(TreeNode* root) {
+        if (!root) return;
+
+        if (root->left != NULL)
+            parent[root->left] = root;
+
+        inorder(root->left);
+
+        if (root->right != NULL)
+            parent[root->right] = root;
+
+        inorder(root->right);
+    }
+
+    void BFS(TreeNode* target, int k, vector<int>& res) {
+        queue<TreeNode*> q;
+        q.push(target);
+
+        unordered_set<TreeNode*> vis;
+        vis.insert(target);
+
+        while (!q.empty() && k > 0) {
+            int n = q.size();
+
+            while (n--) {
+                TreeNode* curr = q.front();
+                q.pop();
+
+                // Left
+                if (curr->left != NULL && !vis.count(curr->left)) {
+                    q.push(curr->left);
+                    vis.insert(curr->left);
+                }
+
+                // Right
+                if (curr->right != NULL && !vis.count(curr->right)) {
+                    q.push(curr->right);
+                    vis.insert(curr->right);
+                }
+
+                // Parent
+                if (parent.count(curr) &&
+                    !vis.count(parent[curr])) {
+                    q.push(parent[curr]);
+                    vis.insert(parent[curr]);
+                }
+            }
+
+            k--;
+        }
+
+        while (!q.empty()) {
+            res.push_back(q.front()->val);
+            q.pop();
+        }
     }
 
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        if(k <= 0) return {target -> val};
-        // step-1 : craete mapping
-        buildParentMap(root, nullptr);
-        // step2: bfs outward from target node
-        queue<TreeNode*> q;
-        unordered_set<TreeNode*> visisted;
-        q.push(target);
-        visisted.insert(target);
-        int currDist = 0;
-        while (!q.empty())
-        {
-            if(currDist == k){
-                vector<int> res;
-                while(!q.empty()){
-                    res.push_back(q.front() -> val);
-                    q.pop();
-                }
-                return res;
-            }
-            int size = q.size();
-            // process all nodes at current level
-            for(int i = 0; i < size; i++){
-                TreeNode* curr = q.front();
-                q.pop();
+        vector<int> ans;
+        parent.clear();
 
-                // left child
-                if(curr -> left && visisted.find(curr -> left) == visisted.end()){
-                    visisted.insert(curr -> left);
-                    q.push(curr -> left);
-                }
-                // right child
-                if(curr -> right && visisted.find(curr -> right) == visisted.end()){
-                    visisted.insert(curr -> right);
-                    q.push(curr -> right);
-                }
-                // parent
-                if(parentMap[curr] && visisted.find(parentMap[curr]) == visisted.end()){
-                    visisted.insert(parentMap[curr]);
-                    q.push(parentMap[curr]);
-                }
-            }
-            currDist++;
-        }
-        return {};
+        inorder(root);
+        BFS(target, k, ans);
+
+        return ans;
     }
 };
