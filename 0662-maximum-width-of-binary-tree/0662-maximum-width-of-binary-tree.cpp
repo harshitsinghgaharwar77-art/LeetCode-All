@@ -1,55 +1,42 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+
 class Solution {
 public:
+    typedef unsigned long long ll;
+
     int widthOfBinaryTree(TreeNode* root) {
+        if (root == NULL) return 0;
 
-        if(root == nullptr) return 0;
-
-        queue<pair<TreeNode*, unsigned long long>> q;
-
+        queue<pair<TreeNode*, ll>> q;
         q.push({root, 0});
 
-        unsigned long long ans = 0;
+        ll maxWidth = 0;
 
-        while(!q.empty()) {
+        while (!q.empty()) {
+            ll l = q.front().second;
+            ll r = q.back().second;
 
-            int size = q.size();
+            maxWidth = max(maxWidth, r - l + 1);
 
-            unsigned long long minIndex = q.front().second;
-            unsigned long long first = 0, last = 0;
+            ll n = q.size();
 
-            for(int i = 0; i < size; i++) {
-
-                TreeNode* node = q.front().first;
-                unsigned long long index = q.front().second - minIndex;
-
+            while (n--) {
+                TreeNode* frontNode = q.front().first;
+                ll idx = q.front().second;
                 q.pop();
 
-                if(i == 0) first = index;
-                if(i == size - 1) last = index;
+                // Normalize indices to avoid overflow
+                idx -= l;
 
-                if(node->left != nullptr) {
-                    q.push({node->left, 2 * index});
+                if (frontNode->left != NULL) {
+                    q.push({frontNode->left, 2 * idx + 1});
                 }
 
-                if(node->right != nullptr) {
-                    q.push({node->right, 2 * index + 1});
+                if (frontNode->right != NULL) {
+                    q.push({frontNode->right, 2 * idx + 2});
                 }
             }
-
-            ans = max(ans, last - first + 1);
         }
 
-        return (int)ans;
+        return (int)maxWidth;
     }
 };
