@@ -380,6 +380,7 @@
 | ------- |
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0210-course-schedule-ii) |
@@ -487,6 +488,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
@@ -509,6 +511,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
@@ -563,6 +566,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
