@@ -413,6 +413,7 @@
 | [0802-find-eventual-safe-states](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
@@ -521,6 +522,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -555,6 +557,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -698,6 +701,7 @@
 | [0098-validate-binary-search-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
