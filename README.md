@@ -239,6 +239,7 @@
 | [0856-score-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0940-distinct-subsequences-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
@@ -345,6 +346,7 @@
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -406,6 +408,7 @@
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -505,6 +508,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -531,6 +535,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
