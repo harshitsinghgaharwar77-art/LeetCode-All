@@ -194,6 +194,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -416,6 +417,7 @@
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -521,6 +523,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1609-even-odd-tree) |
@@ -553,6 +556,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1609-even-odd-tree) |
@@ -625,6 +629,7 @@
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1162-as-far-from-land-as-possible) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1002,12 +1007,15 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
