@@ -226,6 +226,7 @@
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
@@ -339,6 +340,7 @@
 | [0079-word-search](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
@@ -385,6 +387,7 @@
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0547-number-of-provinces) |
@@ -492,6 +495,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -516,6 +520,7 @@
 | [0110-balanced-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
