@@ -39,6 +39,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
@@ -237,6 +238,7 @@
 | [0394-decode-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -313,6 +315,7 @@
 | [0312-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -892,11 +895,13 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1049-last-stone-weight-ii) |
 ## Segment Tree
