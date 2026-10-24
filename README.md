@@ -69,6 +69,7 @@
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1095-find-in-mountain-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1162-as-far-from-land-as-possible) |
@@ -320,6 +321,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1092-shortest-common-supersequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -891,10 +893,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1049-last-stone-weight-ii) |
 ## Segment Tree
 |  |
 | ------- |
