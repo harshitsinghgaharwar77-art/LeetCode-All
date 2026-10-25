@@ -126,6 +126,7 @@
 | [0263-ugly-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
@@ -312,6 +313,7 @@
 | [0131-palindrome-partitioning](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0312-burst-balloons) |
@@ -641,6 +643,7 @@
 | [0130-surrounded-regions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0322-coin-change) |
@@ -903,6 +906,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
@@ -1073,5 +1077,6 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
