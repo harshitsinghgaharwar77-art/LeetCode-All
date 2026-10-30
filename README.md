@@ -93,6 +93,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -274,6 +275,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
