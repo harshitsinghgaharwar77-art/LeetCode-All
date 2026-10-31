@@ -245,6 +245,7 @@
 | [0005-longest-palindromic-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0058-length-of-last-word) |
@@ -536,6 +537,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0295-find-median-from-data-stream) |
@@ -1074,10 +1076,12 @@
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 ## Queue
 |  |
@@ -1156,4 +1160,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0881-boats-to-save-people) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
