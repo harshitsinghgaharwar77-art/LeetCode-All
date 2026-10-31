@@ -286,6 +286,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1073,11 +1074,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1085,6 +1088,7 @@
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1174,10 +1178,12 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
