@@ -271,6 +271,7 @@
 | [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0856-score-of-parentheses) |
@@ -1078,11 +1079,13 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
 ## Queue
 |  |
 | ------- |
@@ -1164,8 +1167,10 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
