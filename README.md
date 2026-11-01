@@ -55,6 +55,7 @@
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
@@ -230,6 +231,7 @@
 | [0480-sliding-window-median](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -715,6 +718,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
@@ -826,6 +830,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0846-hand-of-straights) |
@@ -991,6 +996,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
