@@ -108,6 +108,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
@@ -240,6 +241,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -320,6 +322,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
