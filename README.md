@@ -230,6 +230,7 @@
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -293,6 +294,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -877,6 +879,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
