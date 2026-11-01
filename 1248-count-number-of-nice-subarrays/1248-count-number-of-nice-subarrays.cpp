@@ -1,23 +1,25 @@
-
 class Solution {
+    private:
+    int atMost(vector<int>& nums, int k){
+        if(k < 0) return 0;
+        // sliding window
+        int n = nums.size();
+        int l = 0, r =0, cnt = 0, odd =0;
+        for(int r =0 ; r < n; r++){
+            // count odd numbers
+            if(nums[r] % 2 != 0) odd++;
+            // shrink window size when odd > k
+            while(odd > k){
+                if(nums[l] % 2 != 0) odd--;
+                l++;
+            }
+            // count all valid subaarys ending at r
+            cnt += (r-l+1);
+        }
+        return cnt;
+    }
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int n = nums.size(), oddCnt = 0, prevCnt = 0, ans = 0, i = 0, j = 0;
-        while(j < n){
-            if((nums[j] & 1) == 1){
-                oddCnt++;
-                prevCnt = 0;
-            }
-            while(oddCnt == k){
-                prevCnt++;
-                if((nums[i] & 1) == 1){
-                    oddCnt--;
-                }
-                i++;
-            }
-            ans += prevCnt;
-            j++;
-        }
-        return ans;
+        return atMost(nums, k) - atMost(nums, k - 1);
     }
 };
