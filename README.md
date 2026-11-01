@@ -93,6 +93,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1389-create-target-array-in-the-given-order](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
@@ -676,6 +677,7 @@
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1094-car-pooling) |
+| [1389-create-target-array-in-the-given-order](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
