@@ -69,6 +69,7 @@
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0930-binary-subarrays-with-sum) |
@@ -821,6 +822,7 @@
 | [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
