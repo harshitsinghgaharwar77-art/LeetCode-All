@@ -118,6 +118,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1720-decode-xored-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -379,6 +380,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2270-number-of-ways-to-split-array) |
 | [3903-smallest-stable-index-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3903-smallest-stable-index-i) |
