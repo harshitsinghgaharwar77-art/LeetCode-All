@@ -179,6 +179,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1688-count-of-matches-in-tournament](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
@@ -719,6 +720,7 @@
 | [0735-asteroid-collision](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1094-car-pooling) |
 | [1389-create-target-array-in-the-given-order](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
