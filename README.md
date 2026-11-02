@@ -56,6 +56,7 @@
 | [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -429,6 +430,7 @@
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -478,6 +480,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
@@ -504,6 +507,7 @@
 | [0260-single-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -1121,6 +1125,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Longest Common Subsequence
 |  |
