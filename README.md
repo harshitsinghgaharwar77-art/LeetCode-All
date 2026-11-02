@@ -125,6 +125,7 @@
 | [1932-merge-bsts-to-create-single-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1991-find-the-middle-index-in-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -574,6 +575,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3665-twisted-mirror-path-count) |
@@ -726,6 +728,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
