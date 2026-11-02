@@ -117,6 +117,7 @@
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1720-decode-xored-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -500,6 +501,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1720-decode-xored-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2032-two-out-of-three) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2433-find-the-original-array-of-prefix-xor) |
