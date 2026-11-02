@@ -20,20 +20,20 @@ private:
 
 public:
     vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3) {
-        vector<int> freq(101,0);
-        unordered_set<int> s1(nums1.begin(), nums1.end());
-        unordered_set<int> s2(nums2.begin(), nums2.end());
-        unordered_set<int> s3(nums3.begin(), nums3.end());
-        for(auto it : s1) freq[it]++;
-        for(auto it : s2) freq[it]++;
-        for(auto it : s3) freq[it]++;
-        vector<int> ans;
-        for(int i = 1; i <= 100; i++){
-            if(freq[i] >= 2){
-                ans.push_back(i);
-            }
-        }
-        return ans;
-        // return solveFast(nums1, nums2, nums3);
+        // vector<int> freq(101,0);
+        // unordered_set<int> s1(nums1.begin(), nums1.end());
+        // unordered_set<int> s2(nums2.begin(), nums2.end());
+        // unordered_set<int> s3(nums3.begin(), nums3.end());
+        // for(auto it : s1) freq[it]++;
+        // for(auto it : s2) freq[it]++;
+        // for(auto it : s3) freq[it]++;
+        // vector<int> ans;
+        // for(int i = 1; i <= 100; i++){
+        //     if(freq[i] >= 2){
+        //         ans.push_back(i);
+        //     }
+        // }
+        // return ans;
+        return solveFast(nums1, nums2, nums3);
     }
 };
