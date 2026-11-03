@@ -63,6 +63,7 @@
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0729-my-calendar-i) |
@@ -440,6 +441,7 @@
 | [0647-palindromic-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0931-minimum-falling-path-sum) |
@@ -486,6 +488,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1079-letter-tile-possibilities) |
@@ -516,6 +519,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0980-unique-paths-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -619,6 +623,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0139-word-break) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
@@ -1135,6 +1140,7 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Longest Common Subsequence
 |  |
