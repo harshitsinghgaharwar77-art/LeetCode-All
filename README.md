@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
@@ -349,6 +350,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1859-sorting-the-sentence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1859-sorting-the-sentence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -488,6 +490,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Bracket Sequences
 |  |
 | ------- |
