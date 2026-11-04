@@ -47,6 +47,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0485-max-consecutive-ones) |
@@ -435,6 +436,7 @@
 | [0368-largest-divisible-subset](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0516-longest-palindromic-subsequence) |
@@ -489,6 +491,7 @@
 | [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
+| [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
@@ -520,6 +523,7 @@
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0645-set-mismatch) |
@@ -1145,6 +1149,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
