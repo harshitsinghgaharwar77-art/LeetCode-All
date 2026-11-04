@@ -204,6 +204,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
@@ -705,6 +706,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -949,6 +951,7 @@
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
