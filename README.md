@@ -200,6 +200,7 @@
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
