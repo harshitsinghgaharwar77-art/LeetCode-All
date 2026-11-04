@@ -150,6 +150,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2942-find-words-containing-character](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2942-find-words-containing-character) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -372,6 +373,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2942-find-words-containing-character](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
