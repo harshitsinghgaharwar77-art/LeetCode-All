@@ -198,6 +198,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2469-convert-the-temperature) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [2413-smallest-even-multiple](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
 | ------- |
