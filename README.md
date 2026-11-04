@@ -125,6 +125,7 @@
 | [1720-decode-xored-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -693,6 +694,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
