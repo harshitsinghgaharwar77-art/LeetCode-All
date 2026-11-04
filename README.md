@@ -73,6 +73,7 @@
 | [0733-flood-fill](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
@@ -699,6 +700,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1095-find-in-mountain-array) |
