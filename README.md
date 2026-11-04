@@ -141,6 +141,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2270-number-of-ways-to-split-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -679,6 +680,7 @@
 | [1768-merge-strings-alternately](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -702,6 +704,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2594-minimum-time-to-repair-cars) |
@@ -833,6 +836,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1859-sorting-the-sentence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1859-sorting-the-sentence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
