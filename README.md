@@ -205,6 +205,7 @@
 | [2652-sum-multiples](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2769-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3525-find-x-value-of-array-ii) |
