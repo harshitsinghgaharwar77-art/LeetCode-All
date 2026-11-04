@@ -208,6 +208,7 @@
 | [2652-sum-multiples](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2769-find-the-maximum-achievable-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2864-maximum-odd-binary-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
@@ -375,6 +376,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2864-maximum-odd-binary-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -934,6 +936,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2864-maximum-odd-binary-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2864-maximum-odd-binary-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3727-maximum-alternating-sum-of-squares) |
