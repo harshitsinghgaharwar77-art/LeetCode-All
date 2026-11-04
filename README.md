@@ -188,6 +188,7 @@
 | [0412-fizz-buzz](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0973-k-closest-points-to-origin) |
@@ -688,6 +689,7 @@
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
