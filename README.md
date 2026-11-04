@@ -146,6 +146,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2574-left-and-right-sum-differences) |
+| [2594-minimum-time-to-repair-cars](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2594-minimum-time-to-repair-cars) |
 | [2653-sliding-subarray-beauty](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2653-sliding-subarray-beauty) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -701,6 +702,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2560-house-robber-iv) |
+| [2594-minimum-time-to-repair-cars](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2594-minimum-time-to-repair-cars) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
