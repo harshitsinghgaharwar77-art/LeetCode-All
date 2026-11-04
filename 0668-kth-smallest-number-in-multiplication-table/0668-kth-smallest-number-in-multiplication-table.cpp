@@ -1,5 +1,6 @@
 class Solution {
 private:
+// max heap se kiya tha pr TLE de diya tha
     int isPossible(int mid, int m, int n){
         int sum = 0;
         for(int i = 1; i <= m; i++) sum += min(mid/i,n);
