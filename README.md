@@ -108,6 +108,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -683,6 +684,7 @@
 | [0881-boats-to-save-people](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1768-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1898-maximum-number-of-removable-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -707,6 +709,7 @@
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -844,6 +847,7 @@
 | [1094-car-pooling](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1859-sorting-the-sentence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1859-sorting-the-sentence) |
