@@ -125,6 +125,7 @@
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1720-decode-xored-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
@@ -535,6 +536,7 @@
 | [1079-letter-tile-possibilities](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Bracket Sequences
 |  |
