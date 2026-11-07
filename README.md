@@ -957,6 +957,7 @@
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Linked List
 |  |
 | ------- |
@@ -1173,6 +1174,7 @@
 | [1046-last-stone-weight](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1094-car-pooling) |
 | [1882-process-tasks-using-servers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1882-process-tasks-using-servers) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -1241,6 +1243,7 @@
 | [0729-my-calendar-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Bitmask
 |  |
 | ------- |
@@ -1283,6 +1286,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Divide and Conquer
 |  |
 | ------- |
