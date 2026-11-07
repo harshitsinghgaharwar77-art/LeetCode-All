@@ -78,6 +78,7 @@
 | [0739-daily-temperatures](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0827-making-a-large-island](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0846-hand-of-straights) |
@@ -704,6 +705,7 @@
 | [0647-palindromic-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1048-longest-string-chain) |
@@ -732,6 +734,7 @@
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1095-find-in-mountain-array) |
 | [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
@@ -869,6 +872,7 @@
 | [0692-top-k-frequent-words](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0721-accounts-merge) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0948-bag-of-tokens) |
@@ -1163,6 +1167,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1046-last-stone-weight) |
