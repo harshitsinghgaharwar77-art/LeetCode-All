@@ -50,6 +50,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
@@ -688,6 +689,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -712,6 +714,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0475-heaters) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -846,6 +849,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
