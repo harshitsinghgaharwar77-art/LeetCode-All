@@ -202,6 +202,7 @@
 | [0728-self-dividing-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0973-k-closest-points-to-origin) |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
 | [2413-smallest-even-multiple](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
@@ -724,6 +726,7 @@
 | [0778-swim-in-rising-water](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1095-find-in-mountain-array) |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -1039,6 +1042,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
@@ -1401,4 +1405,20 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0980-unique-paths-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
