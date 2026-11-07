@@ -523,6 +523,7 @@
 | [0257-binary-tree-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0494-target-sum) |
@@ -557,6 +558,7 @@
 | [0187-repeated-dna-sequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0526-beautiful-arrangement) |
