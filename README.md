@@ -107,6 +107,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
@@ -416,6 +417,7 @@
 | [0692-top-k-frequent-words](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1079-letter-tile-possibilities) |
+| [1267-count-servers-that-communicate](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1748-sum-of-unique-elements) |
@@ -637,6 +639,7 @@
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -666,6 +669,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1463-cherry-pickup-ii) |
 | [1672-richest-customer-wealth](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1672-richest-customer-wealth) |
@@ -932,6 +936,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -1098,6 +1103,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
