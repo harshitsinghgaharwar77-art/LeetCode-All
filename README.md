@@ -172,6 +172,7 @@
 | [2942-find-words-containing-character](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
@@ -1061,6 +1062,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Iterator
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2653-sliding-subarray-beauty) |
 | [2747-count-zero-request-servers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
@@ -1242,6 +1245,7 @@
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3525-find-x-value-of-array-ii) |
 ## Quicksort
 |  |
@@ -1294,6 +1298,7 @@
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1019-next-greater-node-in-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -1346,10 +1351,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
