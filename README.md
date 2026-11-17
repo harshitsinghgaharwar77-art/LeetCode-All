@@ -413,6 +413,7 @@
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2864-maximum-odd-binary-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -528,6 +529,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2560-house-robber-iv](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2560-house-robber-iv) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
@@ -734,6 +736,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
