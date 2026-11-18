@@ -414,6 +414,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2864-maximum-odd-binary-number) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3863-minimum-operations-to-sort-a-string) |
