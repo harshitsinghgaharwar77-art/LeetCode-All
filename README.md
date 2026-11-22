@@ -413,6 +413,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
