@@ -113,6 +113,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -218,6 +219,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -453,6 +455,7 @@
 | [1094-car-pooling](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -990,6 +993,7 @@
 | [0729-my-calendar-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2102-sequentially-ordinal-rank-tracker) |
@@ -1330,6 +1334,7 @@
 | [0295-find-median-from-data-stream](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1472-design-browser-history) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Divide and Conquer
