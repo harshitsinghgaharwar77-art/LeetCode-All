@@ -13,8 +13,7 @@ public:
             prefix.push_back(1);
         }
         else {
-            int last = prefix.back();
-            prefix.push_back(last * num);
+            prefix.push_back(prefix.back() * num);
         }
     }
 
