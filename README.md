@@ -177,6 +177,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
@@ -241,6 +242,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3525-find-x-value-of-array-ii) |
@@ -258,6 +260,7 @@
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
@@ -266,6 +269,7 @@
 | [0204-count-primes](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/0204-count-primes) |
 | [1201-ugly-number-iii](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/1201-ugly-number-iii) |
 | [2413-smallest-even-multiple](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -1128,6 +1132,7 @@
 | [2653-sliding-subarray-beauty](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2653-sliding-subarray-beauty) |
 | [2747-count-zero-request-servers](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/harshitsinghgaharwar77-art/LeetCode-All/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
